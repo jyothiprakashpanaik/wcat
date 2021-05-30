@@ -1,0 +1,15 @@
+{
+  "name": "wcat",
+  "version": "1.0.0",
+  "description": "It is used to display or make a copy content of one or more files in the terminal",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "wcat": "main.js"
+  }
+}
